@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://softreset-me.herokuapp.com/",
+    "apiUrl": "https://softreset-me.herokuapp.com",
     "contentApiKey": "518106977bfe6845be5efaddbe"
   },
   "production": {
-    "apiUrl": "https://softreset-me.herokuapp.com/",
+    "apiUrl": "https://softreset-me.herokuapp.com",
     "contentApiKey": "518106977bfe6845be5efaddbe"
   }
 }
